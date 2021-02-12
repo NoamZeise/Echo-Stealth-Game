@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/deathScreenText.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/echoDeepBackground.wav</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/echoSound.wav</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/branch/base.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/branch/walls.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/checker/base.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/checker/walls.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/easy/base.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/easy/walls.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/end/base.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/end/walls.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/start/base.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/start/walls.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/tsu/base.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/tsu/walls.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/wallTex.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Maps/warfog.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/pauseScreen.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/PressEnter.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Sprites/cursor.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Sprites/Enemy/echo.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Sprites/Player/dangerScreen.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Sprites/Player/torch.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/Sprites/Player/torchTight.png</File>
+    <File>C:/Users/noam4/source/repos/Echo/Echo/Content/startText.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
